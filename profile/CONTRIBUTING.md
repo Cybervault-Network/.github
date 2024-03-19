@@ -8,7 +8,7 @@ Thank you for considering contributing to Cybervault Network! By participating i
 
 2. **Clone the Repository:** Clone the forked repository to your local machine using the following command:
    ```
-   git clone https://github.com/your-username/cybervault-network.git
+   git clone https://github.com/Cybervault-Network/cybervault-network.git
    ```
 
 3. **Create a Branch:** Before making any changes, create a new branch to work on your feature or bug fix:
